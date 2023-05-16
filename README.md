@@ -4,10 +4,10 @@
 
 **Um pouco mais sobre mim:**
 
-- 📖 Atualmente comecei a utilizar o scss em meus projeto antigos para aprimorar minhas habilidades com estilização;
+- 📖 Atualmente comecei a utilizar o scss em meus projetos antigos para aprimorar minhas habilidades como estilização e criatividade;
 - 🎮 No meu tempo livre gosto de jogar online, assistir series e filme;
-- 🗣️ Sou uma pessoa muito comunicativa adoro ficar conversando, conhecendo pessoa e aprendendo com elas;
-- 🖼️ Fique a vontade para dar uma olhada em meu fixado para ver alguns de meus projetos, caso note algo  e queira entrar em contato comigo, todo feedback é bem vindo;
+- 🗣️ Sou uma pessoa muito comunicativa adoro ficar conversando, conhecendo pessoas e aprendendo com elas;
+- 🖼️ Fique a vontade para dar uma olhada em meu fixado para ver alguns dos meus projetos, caso note algo e queira entrar em contato comigo, todo feedback é bem vindo;
 - 📞 Caso queira entrar em contato comigo, voce pode me achar pelo email: jonathankarlinski57@gmail.com ou pelo no meu [linkedin](https://www.linkedin.com/in/jonathankarlinski/);
 
 ### Algumas das minhas skills
