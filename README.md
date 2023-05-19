@@ -1,14 +1,14 @@
 # Olá! Sejá bem vindo(a)
 
-## Me chamo Jonathan, atualmente sou estudante de desenvolvimento web
+## Me chamo Jonathan Karlinski, atualmente sou estudante de desenvolvimento web
 
-**Um pouco mais sobre mim:**
+**Um pouco sobre mim:**
 
-- 📖 Atualmente comecei a utilizar o scss em meus projetos antigos para aprimorar minhas habilidades como estilização e criatividade;
-- 🎮 No meu tempo livre gosto de jogar online, assistir series e filme;
+- 📖 Atualmente comecei a utilizar o scss em meus projetos antigos para aprimorar minhas habilidades com estilização e criatividade;
+- 🎮 No meu tempo livro gosto de jogar, assistir series, filmes;
 - 🗣️ Sou uma pessoa muito comunicativa adoro ficar conversando, conhecendo pessoas e aprendendo com elas;
-- 🖼️ Fique a vontade para dar uma olhada em meu fixado para ver alguns dos meus projetos, caso note algo e queira entrar em contato comigo, todo feedback é bem vindo;
-- 📞 Caso queira entrar em contato comigo, voce pode me achar pelo email: jonathankarlinski57@gmail.com ou pelo no meu [linkedin](https://www.linkedin.com/in/jonathankarlinski/);
+- 🖼️ Fique a vontade para dar uma olhada em meu fixado ou em meu [portifólio](https://jonathankarlinski.github.io/portifolio/) para ver alguns de meus projetos, caso note algo e queira entrar em contato comigo, todo feedback é bem vindo;
+- 📞 Você pode me achar pelo email: jonathankarlinski57@gmail.com ou pelo no meu [linkedin](https://www.linkedin.com/in/jonathankarlinski/);
 
 ### Algumas das minhas skills
 
