@@ -4,7 +4,7 @@
 
 **Um pouco sobre mim:**
 
-- 📖 Atualmente comecei a utilizar o scss em meus projetos antigos para aprimorar minhas habilidades com estilização e criatividade;
+- 📖 Atualmente estou estudando python e também estou estilizando meus projetos antigos para aprimorar minhas habilidades com estilização e criatividade;
 - 🎮 No meu tempo livro gosto de jogar, assistir series, filmes;
 - 🗣️ Sou uma pessoa muito comunicativa adoro ficar conversando, conhecendo pessoas e aprendendo com elas;
 - 🖼️ Fique a vontade para dar uma olhada em meu fixado ou em meu [portifólio](https://jonathankarlinski.github.io/portifolio/) para ver alguns de meus projetos, caso note algo e queira entrar em contato comigo, todo feedback é bem vindo;
