@@ -30,7 +30,7 @@
 
 ### Analytics
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathankarlinski&hide_progress=false)](https://github.com/jonathankarlinski)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathankarlinski&layout=compact)](https://github.com/jonathankarlinski)
 
 ---
 
