@@ -7,7 +7,7 @@
 - 📖 Atualmente estou estudando python e também estou estilizando meus projetos antigos para aprimorar minhas habilidades com estilização e criatividade;
 - 🎮 No meu tempo livro gosto de jogar, assistir series, filmes;
 - 🗣️ Sou uma pessoa muito comunicativa adoro ficar conversando, conhecendo pessoas e aprendendo com elas;
-- 🖼️ Fique a vontade para dar uma olhada em meu fixado ou em meu [portifólio](https://jonathankarlinski.github.io/portifolio/) para ver alguns de meus projetos, caso note algo e queira entrar em contato comigo, todo feedback é bem vindo;
+- 🖼️ Fique a vontade para dar uma olhada em meu fixado ou em meu [portifólio](https://jonathan-karlinski-portfolio.vercel.app/) para ver alguns de meus projetos, caso note algo e queira entrar em contato comigo, todo feedback é bem vindo;
 - 📞 Você pode me achar pelo email: jonathankarlinski57@gmail.com ou pelo no meu [linkedin](https://www.linkedin.com/in/jonathankarlinski/);
 
 ### Algumas das minhas skills
