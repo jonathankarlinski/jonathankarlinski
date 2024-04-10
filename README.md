@@ -1,6 +1,5 @@
-# Olá! Sejá bem vindo(a)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=800&size=40&pause=1000&color=3E7BA3&center=true&vCenter=true&random=false&width=435&height=60&lines=Ol%C3%A1!+Seja+bem+vindo(a))](https://git.io/typing-svg)
 
-## Me chamo Jonathan Karlinski, atualmente sou estudante de desenvolvimento web
 
 **Um pouco sobre mim:**
 
